@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CAEA,WACE,YAAa,CACb,qBAAsB,CACtB,YACF,CAEA,MACE,iBACF,CAEA,OACE,SACF","file":"main.c6cbca78.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n\n.container {\n  display: flex;\n  flex-direction: column;\n  padding: 50px;\n}\n\nlabel {\n  text-align: center;\n}\n\n.error {\n  color: red;\n}\n"]}
